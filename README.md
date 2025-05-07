@@ -1,3 +1,9 @@
+# DockBox2 - Updated Fork
+
+## About This Repository
+
+This is a **forked version** of the original [DockBox2](https://github.com/jp43/DockBox2) repository, developed by Dr. Jordane Preto.
+
 # DockBox2
 
 Graph Neural Network Model to Improve Docking Predictions
